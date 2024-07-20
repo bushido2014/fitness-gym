@@ -1,6 +1,6 @@
 # Fitness Gym WordPress Theme
 
-Welcome to the Fitness Gym WordPress Theme.It incorporates various technologies and plugins to provide a rich user experience.
+Fitness Gym WordPress Theme.It incorporates various technologies and plugins to provide a rich user experience.
 
 ## Features
 
